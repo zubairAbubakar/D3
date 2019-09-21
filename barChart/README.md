@@ -1,0 +1,1 @@
+This bar chart shows 10 most populous countries as at 2017, the data was extracted from United Nation's [World Population Prospect 2017](https://esa.un.org/undp/wpp/Download/Standard/Population)
